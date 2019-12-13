@@ -1,0 +1,2 @@
+# ARM64-LIBWJGL
+LIBWJGL/LIBOPENAL for the ARM64 platform
