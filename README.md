@@ -1,4 +1,3 @@
-# ARM64-LIBWJGL
-LIBWJGL/LIBOPENAL for the ARM64 platform
-These are the ARM64 natives nedded for OpenGL applications (Minecraft, etc.)
-built for ARM64.
+# Aarch64-Natives
+Minecraft natives for the Aarch64/ARM64 platform
+These are the natives needed for minecraft, built for Aarch64
